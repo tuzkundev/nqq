@@ -165,26 +165,6 @@ a:hover {
     word-break: break-all;
 }
 
-/* Education */
-.education {
-    text-align: center;
-    font-size: 14px;
-    margin-bottom: 8px;
-}
-
-.edu-school {
-    font-weight: 700;
-    color: #2d2d2d;
-}
-
-.edu-location {
-    color: #555;
-}
-
-.edu-date {
-    color: #555;
-}
-
 /* Skills */
 .skills-grid {
     display: grid;
